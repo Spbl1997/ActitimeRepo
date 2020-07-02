@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Build Is Sucessfully created.]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="353" started-at="2020-06-29T06:55:18Z" finished-at="2020-06-29T06:55:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="353" started-at="2020-06-29T06:55:18Z" finished-at="2020-06-29T06:55:18Z">
+      <class name="com.actitme.login.Demo">
+        <test-method status="PASS" signature="run()[pri:0, instance:com.actitme.login.Demo@1a968a59]" name="run" duration-ms="24" started-at="2020-06-29T12:25:18Z" finished-at="2020-06-29T12:25:18Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Build Is Sucessfully created.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- com.actitme.login.Demo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
