@@ -1,9 +1,14 @@
 package com.actitme.login;
 
-public class Remo {
+import org.testng.Reporter;
+import org.testng.annotations.Test;
 
-	public static void main(String[] args) {
-		System.out.println("this is git programm");
+public class Remo {
+	@Test
+	public void sun ()
+	{
+		Reporter.log("this is git programm",true);
+		
 
 	}
 

@@ -5,5 +5,8 @@
     <classes>
       <class name="com.actitme.login.Demo"/>
     </classes>
+     <classes>
+      <class name="com.actitme.login.Remo"/>
+    </classes>
   </test> 
 </suite>
